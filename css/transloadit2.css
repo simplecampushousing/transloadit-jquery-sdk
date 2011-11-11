@@ -90,7 +90,7 @@
   height: 20px !important;
 }
 #transloadit .progress span{
-  background-color: #27AAE1 !important;
+  background-color: #005D25 !important;
   display: block !important;
   height: 20px !important;
   width: 0;
@@ -112,7 +112,7 @@
   line-height: 20px !important;
   font-weight: normal !important;
 }
-#transloadit .job_progress span{background-color: #B5E000 !important;}
+#transloadit .job_progress span{background-color: #005D25 !important;}
 #transloadit .job_error span{background-color: #E40000 !important;}
 
 /*iframe{width: 1024px; height: 1024px;}*/
